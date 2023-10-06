@@ -26,7 +26,7 @@ Hi! My name is **Rajnish Kumar**, I have made this Job Seacrh portal using MERN 
 ✅ And many more....<br>
 
 
-🔗 link : https://lnkd.in/ddZmqbHc<br>
+🔗 link :https://jobseachportal.onrender.com<br>
 
 ## Deployed
 So what are u waiting for Go ,checkout and explore this amazing web app 🚀
