@@ -1,6 +1,9 @@
 # MERN E-COMMERCE APP 'RedoxCart'
 
 Hi! My name is **Rajnish Kumar**, I have made this Job Seacrh portal using MERN stack ,using API is coming soon,if u know a free job api please let me know 
+# Preview
+
+
 
 # Tech. Used
 
@@ -27,7 +30,7 @@ Hi! My name is **Rajnish Kumar**, I have made this Job Seacrh portal using MERN 
 
 ## Deployed
 So what are u waiting for Go ,checkout and explore this amazing web app 🚀
-**Render** Click [Here](https://redoxcart-mern-app.onrender.com/) **RedoxCart**
+**Render** Click [Here](https://jobseachportal.onrender.com/) **JobSearchPortal**
 
 
 # Install Dependencies
